@@ -26,7 +26,7 @@ For people who dont know what that means:
   * Here's how a dependency graph can be used with courses and prerequisites as an example:
     * Imagine you're planning a college curriculum, and you have a list of courses, each with its own set of prerequisites. You want to visualize which courses depend on completing other courses before they can be taken. You can represent this information in a dependency graph.
 
-##### Example courses which could be shown in a dependency graph
+* **Example courses which could be shown in a dependency graph**
 
   * Calculus I
     * Prerequisites: None
