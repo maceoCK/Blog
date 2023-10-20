@@ -53,7 +53,9 @@ For people who dont know what that means:
     5. Data Structures
     6. Physics II
     7. Algorithms
+
 *Sorry for explaining that all, but it was useful for me*
+
 **The way I learned you were supposed to do it was using kahn's agorithm you can find kahn's algo in this repo in the aditional resources directory (ADD THAT THEN REMOVE THESE PARENTHESES)**
 
 #### MOJO
