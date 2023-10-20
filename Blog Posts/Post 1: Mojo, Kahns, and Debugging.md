@@ -28,20 +28,20 @@ For people who dont know what that means:
 
 ##### Example courses which could be shown in a dependency graph
 
-* Calculus I
-  * Prerequisites: None
-* Calculus II
-  * Prerequisites: Calculus I
-* Physics I
-  * Prerequisites: Calculus I
-* Physics II
-  * Prerequisites: Physics I
-* Computer Science 101
-  * Prerequisites: None
-* Data Structures
-  * Prerequisites: Computer Science 101
-* Algorithms
-  * Prerequisites: Data Structures
+  * Calculus I
+    * Prerequisites: None
+  * Calculus II
+    * Prerequisites: Calculus I
+  * Physics I
+    * Prerequisites: Calculus I
+  * Physics II
+    * Prerequisites: Physics I
+  * Computer Science 101
+    * Prerequisites: None
+  * Data Structures
+    * Prerequisites: Computer Science 101
+  * Algorithms
+    * Prerequisites: Data Structures
 
 * Topological sort
   * Using this same analogy a topological sort is a linear ordering of the nodes (courses) in a directed acyclic graph (DAG) that respects the partial order imposed by the edges (prerequisites). In the context of courses with prerequisites, a topological sort arranges the courses in a sequence such that no course is taken before its prerequisites
